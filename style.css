@@ -407,7 +407,7 @@ nav ul li a:hover {
 .doc-img img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit:contain;
   object-position: top;
   display: block;
 }
